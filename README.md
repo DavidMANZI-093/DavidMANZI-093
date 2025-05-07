@@ -1,4 +1,4 @@
-# David Manzi
+# David MANZI
 
 ## About Me
 Hi there! I'm David, a passionate software developer with a keen interest in creating innovative solutions. I believe in writing clean, maintainable code and enjoy tackling complex problems with elegant solutions.
@@ -44,8 +44,12 @@ Hi there! I'm David, a passionate software developer with a keen interest in cre
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidMANZI-093&show_icons=true&theme=dark" alt="David's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMANZI-093&theme=dark" alt="David's GitHub Streak" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=DavidMANZI-093&count_private=true&show_icons=true&theme=radical" alt="David's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMANZI-093&theme=radical&show_icons=true&count_private=true&hide_border=true&layout=compact" alt="David's Top Languages" />
+  </a>
 </p>
 
 ## 📫 How to Reach Me
