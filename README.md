@@ -85,12 +85,14 @@ This project is a Chrome Dinosaur game clone powered by NEAT (NeuroEvolution of 
 ## 📫 Reach Me
 
 - Email: manzidavid093@gmail.com
-- WhatsApp: +250783245612
 
 ## 🌟 Fun Facts
 - 🎯 Passionate about clean code and software architecture
 - 🏆 Love solving algorithmic challenges
 - 🎮 Interested in lots of computer science topics
 - 🌱 Always learning new technologies
+
+### ✍️ Random Dev Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&quoteType=random)
 
 ⭐️ From [DavidMANZI-093](https://github.com/DavidMANZI-093)
