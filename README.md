@@ -34,7 +34,6 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 ![Static Badge](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=white&style=flat)
 
 ### Other Tools
-Git Docker Termux
 
 ![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 
