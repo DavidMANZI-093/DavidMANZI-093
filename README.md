@@ -95,4 +95,3 @@ This project is a Chrome Dinosaur game clone powered by NEAT (NeuroEvolution of 
 ### ✍️ Random Dev Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=dark&animation=default&layout=default&font=Architect&quoteType=random)
 
-⭐️ From [DavidMANZI-093](https://github.com/DavidMANZI-093)
