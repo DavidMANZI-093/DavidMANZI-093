@@ -10,10 +10,10 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
     <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api?username=DavidMANZI-093&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="My GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api/top-langs/?username=DavidMANZI-093&theme=dark&show_icons=true&count_public=true&hide_border=true&layout=compact&langs_count=8" alt="David's Top Languages" />
+    <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api/top-langs/?username=DavidMANZI-093&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="David's Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api/wakatime/?username=DavidMANZI_093&theme=dark&show_icons=true&count_public=true&hide_border=true&layout=compact&langs_count=25" alt="David's WakaTime Stats" />
+    <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api/wakatime/?username=DavidMANZI_093&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=25" alt="David's WakaTime Stats" />
   </a>
 </p>
 
