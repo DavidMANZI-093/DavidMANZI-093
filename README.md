@@ -5,7 +5,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 
 ## 🗃️ My GitHub & WakaTime Stats
 
-<p align="center" justify="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats-david-manzis-projects.vercel.app/api?username=DavidMANZI-093&count_public&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="My GitHub Stats" />
   </a>
