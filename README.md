@@ -35,7 +35,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 
 ### Other Tools
 
-![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white$style=flat)
+![Static Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Render-000000?logo=render&logoColor=white&style=flat)
 
 ## 🚀 Featured Projects
 
