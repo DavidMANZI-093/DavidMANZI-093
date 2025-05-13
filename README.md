@@ -55,18 +55,21 @@ This project is a terminal-based 3D rendering engine written in TypeScript. It v
 
 ### [CoD4-MW AimOptimizer](https://github.com/DavidMANZI-093/CoD4-MW_AimOptimizer)
 
-This project is a research tool for *Call of Duty 4: Modern Warfare* that uses computer vision to detect enemies based on color. It provides aim assistance by moving the mouse cursor and includes configurable settings and an optional debug window for visualization.
+This project is a research and debugging tool for *Call of Duty 4: Modern Warfare*. It leverages computer vision techniques (using **OpenCV**) to detect enemies based on color and provides customizable aim assistance by moving the mouse cursor. The tool includes configurable settings and an optional debug window for visualization and analysis.
 
 #### **Technologies Used**
-- **C++**: The core functionality, including computer vision and aim assistance, is implemented in C++.
-- **CMake**: Used as the build system to manage project compilation.
+- **C++**: Implements core functionalities, including screen capture, enemy detection, and aim assistance.
+- **OpenCV**: A computer vision library used for image processing and enemy detection through HSV color segmentation.
+- **DirectX 11**: Responsible for real-time screen capture of the gameplay visuals.
+- **Windows API**: Manages input handling, such as mouse and keyboard operations.
+- **CMake**: Used as the build system to manage project compilation and dependency linking.
 
 #### **Key Features**
-- **Enemy Detection**: Uses computer vision techniques to detect enemies based on color.
-- **Aim Assistance**: Automatically moves the mouse cursor for aim optimization.
-- **Configurable Settings**: Allows users to customize the tool's operation to suit their preferences.
-- **Debug Window**: Provides an optional visualization to debug and understand the detection process.
-
+- **Real-time Screen Capture**: Captures a portion of the screen using DirectX 11 for analysis.
+- **Enemy Detection**: Identifies enemies using HSV color-based segmentation.
+- **Aim Assistance**: Automatically moves the mouse cursor toward detected targets with customizable smoothing for natural movement.
+- **Configurable Settings**: Allows users to fine-tune detection parameters, aiming behaviors, and performance thresholds.
+- **Debug Window**: Provides an optional mode to visualize bounding boxes, aim points, and aiming paths for debugging purposes.
 
 ### [RexAI](https://github.com/DavidMANZI-093/RexAI)
 
