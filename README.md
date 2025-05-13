@@ -24,7 +24,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 
 ### Frontend Development
 
-![Static Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat)
+![Static Badge](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/shadcn/ui-000000?logo=shadcnui&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/lucide-F56565?logo=lucide&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/CSS3-663399?logo=css&logoColor=white&style=flat)
 
 ### Backend Development
 ![Static Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white&style=flat) ![Static Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
