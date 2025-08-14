@@ -17,6 +17,8 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
   </a>
 </p>
 
+![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMANZI-093&show_icons=true&theme=gruvbox)
+
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
