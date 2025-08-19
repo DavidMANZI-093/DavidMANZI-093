@@ -13,7 +13,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMANZI-093&cache_seconds=300&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="David's Top Languages" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=DavidMANZI_093&cache_seconds=300&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=25" alt="David's WakaTime Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=DavidMANZI_093&cache_seconds=300&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=30" alt="David's WakaTime Stats" />
   </a>
 </p>
 
