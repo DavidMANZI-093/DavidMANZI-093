@@ -1,9 +1,8 @@
-# ✨ MANZI David 🕹️
+# About Me...
 
-## About Me
-Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science student with an insatiable curiosity for how things work. I’m all about clean, maintainable code and building systems that don’t just function—but make sense, and most importantly, spark joy in every little moment along the way. Whether I’m refining logic, crafting seamless experiences, or unraveling the layers of a complex system, I approach each challenge with care, intention, and a deep desire to truly understand what lies beneath the surface. I’m also a lifelong lover of math—drawn to its patterns, its logic, and the quiet elegance of well-formed solutions. From building full-stack web apps to lighthearted gaming, and from tinkering with AI to exploring automation, I’m on a mission to learn boldly, create purposefully, and always stay grounded in clarity. Let’s build something amazing. 🚀
+Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science student with an insatiable curiosity for how things work. I’m all about clean, maintainable code and building systems that don’t just function but make sense, and most importantly, spark joy in every little moment along the way. Whether I’m refining logic, crafting seamless experiences, or unraveling the layers of a complex system, I approach each challenge with care, intention, and a deep desire to truly understand what lies beneath the surface. I’m also a lifelong lover of math drawn to its patterns, its logic, and the quiet elegance of well-formed solutions. From building full-stack web apps to lighthearted gaming, and from tinkering with AI to exploring automation, I’m on a mission to learn boldly, create purposefully, and always stay grounded in clarity. Let’s build something amazing. 🚀
 
-## 🗃️ My GitHub & WakaTime Stats
+## My GitHub & WakaTime Stats
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -19,7 +18,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 
 <!-- ![Davids's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidMANZI-093&show_icons=true&theme=gruvbox) -->
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff&style=flat) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat) ![Java Badge](https://img.shields.io/badge/Java-EA2D2E?logo=coffeescript&logoColor=white&style=flat) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
