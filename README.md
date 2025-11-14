@@ -22,7 +22,7 @@ Hey there 👋 I’m David, a Rwandan tech enthusiast and computer science stude
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff&style=flat) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat) ![Java Badge](https://img.shields.io/badge/Java-EA2D2E?logo=coffeescript&logoColor=white&style=flat) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=fff&style=flat) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=flat) ![Java Badge](https://img.shields.io/badge/Java-EA2D2E?logo=coffeescript&logoColor=white&style=flat) ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
 
 ### Frontend Development
 
