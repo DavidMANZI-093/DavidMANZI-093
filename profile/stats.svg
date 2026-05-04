@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">David MANZI's GitHub Stats, Rank: B</title>
-        <desc id="descId">Total Stars Earned: 64, Total Commits  (last year) : 627, Total PRs: 26, Total Issues: 21, Contributed to (last year): 12</desc>
+        <desc id="descId">Total Stars Earned: 64, Total Commits  (last year) : 614, Total PRs: 26, Total Issues: 21, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 128.39724321905518;
+        stroke-dashoffset: 128.66750489980438;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >627</text>
+      >614</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
