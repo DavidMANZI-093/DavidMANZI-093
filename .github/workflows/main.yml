@@ -16,7 +16,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=DavidMANZI-093&show_icons=true&theme=dark&hide_border=true&layout=compact&count_private=true
+          options: username=DavidMANZI-093&show_icons=true&hide_title=true&theme=dark&hide_border=true&layout=compact&count_private=true
           path: profile/stats.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=DavidMANZI-093&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=8
+          options: username=DavidMANZI-093&theme=dark&show_icons=true&hide_title=true&hide_border=true&layout=compact&langs_count=8
           path: profile/top-langs.svg
           token: ${{ secrets.GH_PAT }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=DavidMANZI_093&theme=dark&show_icons=true&hide_border=true&layout=compact&langs_count=30
+          options: username=DavidMANZI_093&theme=dark&show_icons=true&hide_title=true&hide_border=true&layout=compact&langs_count=30
           path: profile/wakatime.svg
           token: ${{ secrets.GH_PAT }}
 
