@@ -347,7 +347,7 @@
             y="0"
             width="1.1159999999999999"
             height="8"
-            fill="#000080"
+            fill="#858585"
           />
         
           <rect
@@ -357,7 +357,7 @@
             y="0"
             width="1.1159999999999999"
             height="8"
-            fill="#858585"
+            fill="#000080"
           />
         
           <rect
@@ -573,16 +573,16 @@
     </g>
   
     <g transform="translate(230, 300)">
-      <circle cx="5" cy="6" r="5" fill="#000080" />
+      <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Lua - 2 hrs 31 mins
+        Text - 2 hrs 33 mins
       </text>
     </g>
   
     <g transform="translate(25, 325)">
-      <circle cx="5" cy="6" r="5" fill="#858585" />
+      <circle cx="5" cy="6" r="5" fill="#000080" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Text - 2 hrs 30 mins
+        Lua - 2 hrs 31 mins
       </text>
     </g>
   
